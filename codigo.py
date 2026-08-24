@@ -1,4 +1,4 @@
-nombre = "Maury"
+nombre = "Mauricio"
 apellido = "Auza"
 
 Saludo = "Hola, mi nombre es " + nombre + " " + apellido + " y estoy aprendiendo Python."
